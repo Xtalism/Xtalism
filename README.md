@@ -1,4 +1,4 @@
-# ⚡ Manuel Piña
+# 💎 Manuel Piña
 
 <div align="justify"> 
     I'm a full-stack web developer with a passion for crafting interactive web applications. Additionally, I have hands-on experience in automatization and robotics development. A quick learner, I'm dedicated to expanding my skills and thrive in collaborative                environments. Excited to contribute to creating exceptional applications with a focus on both web, mobile and industrial platforms.<br/>
@@ -62,7 +62,7 @@ fit
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
 
-# 💎 GitHub Stats:
+# ⚡ GitHub Stats:
 
 <!-- GitHub Stats from https://github.com/anuraghazra/github-readme-stats -->
 
