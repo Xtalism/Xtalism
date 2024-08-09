@@ -1,4 +1,4 @@
-# 🚀 Manuel Piña
+# 🌟 Manuel Piña
 
 <div align="justify"> 
     I'm a full-stack web developer with a passion for crafting interactive web applications. Additionally, I have hands-on experience in automatization and robotics development. A quick learner, I'm dedicated to expanding my skills and thrive in collaborative environments. Excited to contribute to creating exceptional applications with a focus on both web, mobile and industrial platforms.<br/>
