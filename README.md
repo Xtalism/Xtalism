@@ -8,4 +8,4 @@
 🤖 Robotics Developer.<br/>
 
 <!-- GitHub Stats from https://github.com/anuraghazra/github-readme-stats -->
-[![Xtalism's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xtalism&count_private=true&show_icons=true&theme=tokyonight&hide_rank=false)](https://github.com/Xtalism/github-readme-stats)
+[![Xtalism's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xtalism&count_private=true&show_icons=true&theme=onedark&hide_rank=true)](https://github.com/Xtalism/github-readme-stats)
