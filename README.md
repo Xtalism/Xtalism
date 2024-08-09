@@ -16,8 +16,8 @@
 # 💻 Tech Stack:
 
 <div style="display: flex; gap: 10px;">
-  <img src="icons/c.svg" alt="drawing" width="25"/> 
-  <img src="icons/cpp.png" alt="drawing" width="25"/>
+  <img src="icons/c.svg" alt="drawing" width="40"/> 
+  <img src="icons/cpp.png" alt="drawing" width="40"/>
 </div>
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
