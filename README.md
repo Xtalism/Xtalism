@@ -15,7 +15,7 @@
 
 # 💻 Tech Stack:
 
-<img src="cpp.jpg" alt="drawing" width="200"/>
+<img src="icons/cpp.png" alt="drawing" width="200"/>
 
 ![C++](icons/cpp.png)
 
