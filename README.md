@@ -15,9 +15,27 @@
 
 # 💻 Tech Stack:
 
-<div style="display: flex; gap: 10px;">
-  <img src="icons/c.svg" alt="drawing" width="40"/> 
-  <img src="icons/cpp.png" alt="drawing" width="40"/>
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="icons/c.svg" alt="C" width="40"/> 
+  <img src="icons/cpp.png" alt="C++" width="40"/>
+  <img src="icons/csharp.png" alt="C#" width="40"/>
+  <img src="icons/rust.png" alt="C#" width="40"/>
+  <img src="icons/python.png" alt="C#" width="40"/>
+  <img src="icons/js.png" alt="C#" width="40"/>
+  <img src="icons/html.png" alt="C#" width="40"/>
+  <img src="icons/css.png" alt="C#" width="40"/>
+  <img src="icons/matlab.png" alt="C#" width="40"/>
+  <img src="icons/simulink.png" alt="C#" width="40"/>
+  <img src="icons/labview.png" alt="C#" width="40"/>
+  <img src="icons/vue.png" alt="C#" width="40"/>
+  <img src="icons/react.svg" alt="C#" width="40"/>
+  <img src="icons/fastapi.svg" alt="C#" width="40"/>
+  <img src="icons/node.png" alt="C#" width="40"/>
+  <img src="icons/jupyter.png" alt="C#" width="40"/>
+  <img src="icons/django.png" alt="C#" width="40"/>
+  <img src="icons/docker.png" alt="C#" width="40"/>
+  <img src="icons/arduino.png" alt="C#" width="40"/>
+  <img src="icons/mplab.png" alt="C#" width="40"/>
 </div>
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
