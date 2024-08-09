@@ -12,7 +12,7 @@
 💾 Software Developer Engineer.<br/>
 🌐 Full-Stack Developer.<br/>
 🤖 Robotics Developer.<br/>
-fit
+
 # 💾 Languages & Tools:
 
 <!--
