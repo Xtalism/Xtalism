@@ -15,7 +15,7 @@
 
 # 💻 Tech Stack:
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
   <img src="icons/c.svg" alt="C" width="40"/> 
   <img src="icons/cpp.png" alt="C++" width="40"/>
   <img src="icons/csharp.png" alt="C#" width="40"/>
