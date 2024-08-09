@@ -13,7 +13,7 @@
 🌐 Full-Stack Developer.<br/>
 🤖 Robotics Developer.<br/>
 
-# 💻 Tech Stack:
+# ⚡ Languages & Tools:
 
 <!--
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
@@ -62,7 +62,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
 
-# 📊 GitHub Stats:
+# 📉 GitHub Stats:
 
 <!-- GitHub Stats from https://github.com/anuraghazra/github-readme-stats -->
 
