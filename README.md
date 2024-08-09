@@ -1,5 +1,7 @@
 # Hi, I'm Manuel! 🚀
 
+I'm a full-stack web developer with a passion for crafting interactive web applications. Additionally, I have hands-on experience in automatization and robotics development. A quick learner, I'm dedicated to expanding my skills and thrive in collaborative environments. Excited to contribute to creating exceptional applications with a focus on both web, mobile and industrial platforms.
+
 💻 Mechatronics Engineer sharing about my journey and learnings in tech.<br/>
 🎓 Studied [Mechatronics Engineering](https://www.uacj.mx/oferta/programas.html?programa=44400&94) at UACJ, México.<br/>
 🛡️ Currently learning about Cybersecurity.<br/>
@@ -32,6 +34,7 @@
 ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
 
 # 📊 GitHub Stats:
-<!-- GitHub Stats from https://github.com/anuraghazra/github-readme-stats -->
-[![Xtalism's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xtalism&count_private=true&show_icons=true&theme=tokyonight&hide_rank=false)](https://github.com/Xtalism/github-readme-stats)
 
+<!-- GitHub Stats from https://github.com/anuraghazra/github-readme-stats -->
+
+[![Xtalism's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xtalism&count_private=true&show_icons=true&theme=tokyonight&hide_rank=false)](https://github.com/Xtalism/github-readme-stats)
