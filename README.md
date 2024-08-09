@@ -2,7 +2,7 @@
 
 💻 Mechatronics Engineer sharing about my journey and learnings in tech.<br/>
 🎓 Studied [Mechatronics Engineering](https://www.uacj.mx/oferta/programas.html?programa=44400&94) at UACJ, México.<br/>
-🔐 Currently learning about Full-Stack Development and Cybersecurity.<br/>
 🌐 Full-Stack Developer.<br/>
 🤖 Robotics Developer.<br/>
 💾 Software Developer.<br/>
+🛡️ Currently learning about Cybersecurity.<br/>
