@@ -5,4 +5,4 @@
 🛡️ Currently learning about Cybersecurity.<br/>
 🌐 Full-Stack Developer.<br/>
 🤖 Robotics Developer.<br/>
-💾 Software Developer.<br/>
+💾 Software Developer Engineer.<br/>
