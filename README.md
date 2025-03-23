@@ -11,6 +11,7 @@
 🛡️ Currently learning Cybersecurity.<br/>
 💾 Software Engineer.<br/>
 🌐 Full-Stack Developer.<br/>
+📟 Embedded Software. <br/>
 🤖 Robotics Developer.<br/>
 
 # 💾 Languages & Tools:
