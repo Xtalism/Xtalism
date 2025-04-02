@@ -16,7 +16,6 @@
 
 # 💾 Languages & Tools:
 
-<!--
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
   <img src="icons/c.svg" alt="C" width="40"/> 
   <img src="icons/cpp.png" alt="C++" width="40"/>
@@ -39,7 +38,6 @@
   <img src="icons/arduino.png" alt="C#" width="40"/>
   <img src="icons/mplab.png" alt="C#" width="40"/>
 </div>
--->
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
